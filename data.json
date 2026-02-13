@@ -203,16 +203,20 @@
       "inventoryValue": 431897.97
     },
     "clothing": {
-      "count": 6,
-      "inventoryValue": 97849.49
+      "count": 7,
+      "inventoryValue": 149596.61
     },
     "electronics": {
       "count": 6,
       "inventoryValue": 80551.29
     },
     "home": {
-      "count": 6,
+      "count": 4,
       "inventoryValue": 127175.95
+    },
+    "sports": {
+      "count": 1,
+      "inventoryValue": 34002.36
     }
   }
 }
